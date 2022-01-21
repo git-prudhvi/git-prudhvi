@@ -14,7 +14,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.codechef.com/users/klh190330039" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1347119566623711232/WmTasleL_400x400.jpg" alt="buckshot" height="30" width="40" /> </a>
+<a href="https://www.codechef.com/users/prudhvi2108" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1347119566623711232/WmTasleL_400x400.jpg" alt="buckshot" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
