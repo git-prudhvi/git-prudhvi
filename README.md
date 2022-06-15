@@ -21,7 +21,7 @@
 <p align="left">  
     <a href="https://www.w3.org/html/" target="_blank"> 
         <code>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" />
           </code> 
     </a> 
     <a href="https://www.w3.org/html/" target="_blank"> 
