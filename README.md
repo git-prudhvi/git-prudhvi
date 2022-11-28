@@ -2,11 +2,11 @@
 <h3 align="center">I'm a Student, Developer, Learner!</h3>
 
 
-- 💻 I’m currently learning about **Backend**
+- 💻 I’m currently learning about **WEB 3.0**
 
-- 🤜🏻🤛🏻 I’m looking to collaborate on **Pyhton based projects**
+- 🤜🏻🤛🏻 I’m looking to collaborate on **Pyhton & Web3 based projects**
 
-- 💬 Ask me about **HTML, C, C++, C#, Python, Java, XML, Express.js, MongoDB**
+- 💬 Ask me about **HTML, C, C++, JS, Python, Java, Wordpress, SQL, Web3, Dapps, Solidity**
 
 - 📧 How to reach me? **Connect to me via Email [Prudhvi](mailto:190330039@klh.edu.in)**
 
