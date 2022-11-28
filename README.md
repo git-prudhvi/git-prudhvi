@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact: **I love to listen to music**
 
+- 📄 **[Resume](https://bafkreiaha4hrbvnhmz6evryio2ygavadrron2dvduqc6v7yrs4y33ouope.ipfs.nftstorage.link/)**
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.codechef.com/users/prudhvi2108" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-sd.svg" alt="codechef" height="30" width="40" /> </a>
