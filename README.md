@@ -1,56 +1,31 @@
-<h1 align="center">Hi 👋🏻, I'm Prudhvi Raj</h1>
-<h3 align="center">I'm a Student, Developer, Learner!</h3>
+# Chemaiboina Prudhvi Raj
 
+**Software Engineer | Full Stack Developer | Blockchain & Security Enthusiast**
 
-- 💻 I’m currently learning about **WEB 3.0**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-prudhviraj)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chemaboinaprudhviraj@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yourprofile/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
-- 🤜🏻🤛🏻 I’m looking to collaborate on **Pyhton & Web3 based projects**
+---
 
-- 💬 Ask me about **HTML, C, C++, JS, Python, Java, Wordpress, SQL, Web3, Dapps, Solidity**
+## 🚀 About Me
 
-- 📧 How to reach me? **Connect to me via Email [Prudhvi](mailto:190330039@klh.edu.in)**
-
-- ⚡ Fun fact: **I love to listen to music**
-
-- 📄 **[Resume](https://bafkreiaha4hrbvnhmz6evryio2ygavadrron2dvduqc6v7yrs4y33ouope.ipfs.nftstorage.link/)**
-
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.codechef.com/users/prudhvi2108" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-sd.svg" alt="codechef" height="30" width="40" /> </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <code>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" />
-          </code> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></code> 
-    </a>  
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></code>  
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></code>  
-    </a>
-    <a href="https://getbootstrap.com" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></code>  
-    </a> 
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>  
-    </a>
-    <a href="https://git-scm.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
-    </a> 
-    <a href="https://www.linux.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>  
-    </a> 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-prudhvi&layout=compact&theme=midnight-purple" alt="Devesh-19" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-prudhvi&show_icons=true&theme=midnight-purple" alt="Devesh-19" /></p>
+```java
+public class PrudhviRaj extends SoftwareEngineer {
+  
+  private String[] specialties = {"Java", "Spring Boot", "AngularJS", "PL/SQL", "Microservices"};
+  private String currentRole = "Software Developer at Tata Consultancy Services";
+  private int yearsOfExperience = 2;
+  private String[] interests = {"Blockchain", "Cybersecurity", "Cloud Architecture", "AI/ML"};
+  
+  public void solveProblems() {
+    while(!problem.isSolved()) {
+      research();
+      code();
+      test();
+      debug();
+    }
+    return innovativeSolution;
+  }
+}
