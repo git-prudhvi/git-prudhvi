@@ -55,10 +55,10 @@ I transform complex business requirements into scalable, secure technical soluti
 
 ## 👨‍💻 Projects
 
-### 🔹 [NHCX/FHIR Implementation (2024)]()
+### 🔹 [NHCX/FHIR Implementation ]()
 Architected a FHIR-compliant healthcare data exchange system for national health claim standards.
 
-- 💼 Spring Boot, FHIR, Azure DevOps
+- 💼 Spring Boot, FHIR
 - ⚖️ 10,000+ daily transactions | Regulatory compliance
 
 ---
@@ -85,7 +85,7 @@ Used crime data analytics to predict trends and visualize hotspots.
 
 ### **Software Developer**  
 **Tata Consultancy Services (TCS)**  
-📆 *Aug 2021 – Present*  
+📆 *Aug 2023 – Present*  
 🛠 Insurance domain – TCS BaNCS Platform
 
 #### 🔹 Highlights:
